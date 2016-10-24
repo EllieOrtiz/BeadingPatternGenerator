@@ -1,0 +1,6 @@
+c:\users\elizabeth\documents\visual studio 2015\Projects\PatternGenerator\PatternGenerator\bin\Debug\PatternGenerator.exe.config
+c:\users\elizabeth\documents\visual studio 2015\Projects\PatternGenerator\PatternGenerator\bin\Debug\PatternGenerator.exe
+c:\users\elizabeth\documents\visual studio 2015\Projects\PatternGenerator\PatternGenerator\bin\Debug\PatternGenerator.pdb
+c:\users\elizabeth\documents\visual studio 2015\Projects\PatternGenerator\PatternGenerator\obj\Debug\PatternGenerator.csprojResolveAssemblyReference.cache
+c:\users\elizabeth\documents\visual studio 2015\Projects\PatternGenerator\PatternGenerator\obj\Debug\PatternGenerator.exe
+c:\users\elizabeth\documents\visual studio 2015\Projects\PatternGenerator\PatternGenerator\obj\Debug\PatternGenerator.pdb
