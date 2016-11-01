@@ -46,6 +46,8 @@
     <Compile Include="OneLinePattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BasePattern.cs" />
+    <Compile Include="SecondSquarePattern.cs" />
     <Compile Include="SquaredPattern.cs" />
   </ItemGroup>
   <ItemGroup>

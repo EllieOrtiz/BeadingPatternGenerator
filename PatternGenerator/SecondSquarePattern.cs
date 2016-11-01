@@ -1,10 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Threading;
 
 namespace PatternGenerator
 {
-    class SquaredPattern : BasePattern
+    class SecondSquarePattern : BasePattern
     {
         public override void CreatePattern()
         {
@@ -18,10 +21,10 @@ namespace PatternGenerator
             {
                 //generates 20 random lines
                 for (int i = 0; i < 20; i++)
-                { 
+                {
                     randElem = randNum.Next(0, 1001);
 
-                    if (randElem % 2 == 0)
+                    if (randElem % 2 == 0 && randElem < 500)
                     {
                         Console.Write("--");
                         sb.Append("--");
